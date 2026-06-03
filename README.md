@@ -1,2 +1,8 @@
-# Cybersecurity-Portfolio
-Professional cybersecurity portfolio showcasing digital forensics, OSINT, network security, incident response, and cybersecurity projects.
+Professional Introduction
+Certifications (CNSS, CSEAN, COREN, NSE)
+Skills Matrix
+Featured Projects
+Tools & Technologies
+Education (NDA M.Sc.)
+Contact Information
+LinkedIn & GitHub Links
